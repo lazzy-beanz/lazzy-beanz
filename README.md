@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @lazzy-beanz
-- 👀 I’m interested in javascript html c++ and unity
+- 👀 I’m ok in javascript html c++ and unity
 - 🌱 I’m currently learning linux
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
